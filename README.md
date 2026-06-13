@@ -32,7 +32,7 @@ CS undergraduate at the University of Alabama at Birmingham, focused on full-sta
 
 What I care about: code that works under pressure, decisions I can explain, and projects where the engineering tradeoffs are the interesting part.
 
-Currently looking for **Summer 2026 internships.**
+Currently open to **research opportunities and internships.**
 
 <br>
 
@@ -53,7 +53,7 @@ exploring:
   - "Computer vision for safety and perception"
 
 open_to:
-  - "Summer 2026 internships (SWE, ML, full-stack)"
+  - "Research opportunities and internships (SWE, ML, full-stack)"
   - "Conversations about ML systems and product engineering"
 ```
 
@@ -130,10 +130,6 @@ A full-stack web application that runs YOLOv8 object detection on uploaded image
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawsdo&hide_border=true&background=0D1117&stroke=415A77&ring=415A77&fire=F4F1DE&currStreakLabel=F4F1DE&currStreakNum=F4F1DE&sideNums=F4F1DE&dates=cbd5e1&sideLabels=cbd5e1" alt="streak" />
-
-<br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawsdo&layout=compact&hide_border=true&bg_color=0D1117&title_color=F4F1DE&text_color=cbd5e1&langs_count=8" alt="top languages" />
 
 </div>
@@ -151,15 +147,7 @@ A few principles I try to actually practice:
 
 <br>
 
-## Connect
-
 <div align="center">
-
-<a href="mailto:dsdoapps@gmail.com"><img src="https://img.shields.io/badge/Email-415A77?style=flat-square&logo=gmail&logoColor=F4F1DE" alt="email" /></a>
-<a href="https://www.linkedin.com/in/dsdo/"><img src="https://img.shields.io/badge/LinkedIn-415A77?style=flat-square&logo=linkedin&logoColor=F4F1DE" alt="linkedin" /></a>
-<a href="https://dawsdo-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-415A77?style=flat-square&logo=vercel&logoColor=F4F1DE" alt="portfolio" /></a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:415A77,60:1B2330,100:0D1117&height=120&section=footer" width="100%" alt="footer banner" />
 
