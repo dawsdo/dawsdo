@@ -22,10 +22,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dawsdo&label=Profile%20views&color=415A77&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/dawsdo?label=Followers&style=flat-square&color=415A77&labelColor=0D1117" alt="followers" />
-<img src="https://img.shields.io/github/stars/dawsdo?label=Stars&style=flat-square&color=415A77&labelColor=0D1117" alt="stars" />
-
 </div>
 
 <br>
@@ -140,26 +136,18 @@ A full-stack web application that runs YOLOv8 object detection on uploaded image
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawsdo&layout=compact&hide_border=true&bg_color=0D1117&title_color=F4F1DE&text_color=cbd5e1&langs_count=8" alt="top languages" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawsdo&bg_color=0D1117&color=F4F1DE&line=415A77&point=F4F1DE&area=true&area_color=415A77&hide_border=true" alt="contribution activity" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/dawsdo/dawsdo/output/github-snake-dark.svg" alt="contribution snake" />
-
 </div>
 
 <br>
 
 ## Approach
 
-I try to work the way senior engineers I respect work:
+A few principles I try to actually practice:
 
-- **Honest scope.** I'd rather have one project I can defend in detail than five embellished ones.
-- **Real tradeoffs.** Every decision has a cost. I try to name what I gave up to get what I chose.
-- **Discipline over heroics.** Commits often, verifies often, reads what gets written. I'd rather catch a bug in `git diff` than in production.
-- **Tools over wrestling.** Standard tools exist for a reason. When something fights back, I look for what the industry already solved before I roll my own.
+- **Defensible over impressive.** I'd rather have one project I can walk through in detail than five I can't justify.
+- **Name what you traded.** Every choice has a cost. Saying "I picked X because of Y, knowing I gave up Z" beats hand-waving.
+- **Verify what you ship.** Read the diff before the push. Catch the bug in `git status`, not in production.
+- **Use what the industry already solved.** Standard tools exist for a reason. Rolling your own is a luxury, not a default.
 
 <br>
 
@@ -170,10 +158,6 @@ I try to work the way senior engineers I respect work:
 <a href="mailto:dsdoapps@gmail.com"><img src="https://img.shields.io/badge/Email-415A77?style=flat-square&logo=gmail&logoColor=F4F1DE" alt="email" /></a>
 <a href="https://www.linkedin.com/in/dsdo/"><img src="https://img.shields.io/badge/LinkedIn-415A77?style=flat-square&logo=linkedin&logoColor=F4F1DE" alt="linkedin" /></a>
 <a href="https://dawsdo-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-415A77?style=flat-square&logo=vercel&logoColor=F4F1DE" alt="portfolio" /></a>
-
-<br>
-
-<sub>Building things that work. Naming what I gave up to get there.</sub>
 
 <br><br>
 
