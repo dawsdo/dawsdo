@@ -32,8 +32,6 @@ CS undergraduate at the University of Alabama at Birmingham, focused on full-sta
 
 What I care about: code that works under pressure, decisions I can explain, and projects where the engineering tradeoffs are the interesting part.
 
-Currently open to **research opportunities and internships.**
-
 <br>
 
 ## Currently
@@ -148,6 +146,10 @@ A few principles I try to actually practice:
 <br>
 
 <div align="center">
+
+<sub><i>UAB Honors Program · CS w/ Math & Chemistry minors · 4.0 GPA · Open to research opportunities and internships</i></sub>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:415A77,60:1B2330,100:0D1117&height=120&section=footer" width="100%" alt="footer banner" />
 
