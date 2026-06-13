@@ -13,14 +13,11 @@
 <a href="https://dawsdo-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-415A77?style=for-the-badge&logo=vercel&logoColor=F4F1DE" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/dawson-do/">
+<a href="https://www.linkedin.com/in/dsdo/">
   <img src="https://img.shields.io/badge/LinkedIn-415A77?style=for-the-badge&logo=linkedin&logoColor=F4F1DE" alt="linkedin" />
 </a>
 <a href="mailto:dsdoapps@gmail.com">
   <img src="https://img.shields.io/badge/Email-415A77?style=for-the-badge&logo=gmail&logoColor=F4F1DE" alt="email" />
-</a>
-<a href="https://github.com/dawsdo">
-  <img src="https://img.shields.io/badge/GitHub-415A77?style=for-the-badge&logo=github&logoColor=F4F1DE" alt="github" />
 </a>
 
 <br><br>
@@ -39,7 +36,7 @@ CS undergraduate at the University of Alabama at Birmingham, focused on full-sta
 
 What I care about: code that works under pressure, decisions I can explain, and projects where the engineering tradeoffs are the interesting part.
 
-Currently looking for **Summer 2026 SWE / ML internships.**
+Currently looking for **Summer 2026 internships.**
 
 <br>
 
@@ -74,17 +71,31 @@ open_to:
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java&theme=dark" alt="languages" />
 
+<sub>Python · TypeScript · JavaScript · Java</sub>
+
+<br><br>
+
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="frontend" />
+
+<sub>React · Next.js · Vite · Tailwind · HTML · CSS</sub>
+
+<br><br>
 
 **Backend & ML**
 
 <img src="https://skillicons.dev/icons?i=flask,nodejs,pytorch,opencv&theme=dark" alt="backend and ml" />
 
+<sub>Flask · Node.js · PyTorch · OpenCV</sub>
+
+<br><br>
+
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,vercel&theme=dark" alt="tools" />
+
+<sub>Git · GitHub · VS Code · PowerShell · Vercel</sub>
 
 </div>
 
@@ -123,16 +134,19 @@ A full-stack web application that runs YOLOv8 object detection on uploaded image
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dawsdo&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F4F1DE&text_color=cbd5e1&icon_color=415A77" alt="github stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dawsdo&hide_border=true&background=0D1117&stroke=415A77&ring=415A77&fire=F4F1DE&currStreakLabel=F4F1DE&currStreakNum=F4F1DE&sideNums=F4F1DE&dates=cbd5e1&sideLabels=cbd5e1" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawsdo&hide_border=true&background=0D1117&stroke=415A77&ring=415A77&fire=F4F1DE&currStreakLabel=F4F1DE&currStreakNum=F4F1DE&sideNums=F4F1DE&dates=cbd5e1&sideLabels=cbd5e1" alt="streak" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawsdo&layout=compact&hide_border=true&bg_color=0D1117&title_color=F4F1DE&text_color=cbd5e1&langs_count=8" alt="top languages" />
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawsdo&bg_color=0D1117&color=F4F1DE&line=415A77&point=F4F1DE&area=true&area_color=415A77&hide_border=true" alt="contribution activity" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/dawsdo/dawsdo/output/github-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
@@ -154,8 +168,7 @@ I try to work the way senior engineers I respect work:
 <div align="center">
 
 <a href="mailto:dsdoapps@gmail.com"><img src="https://img.shields.io/badge/Email-415A77?style=flat-square&logo=gmail&logoColor=F4F1DE" alt="email" /></a>
-<a href="https://www.linkedin.com/in/dawson-do/"><img src="https://img.shields.io/badge/LinkedIn-415A77?style=flat-square&logo=linkedin&logoColor=F4F1DE" alt="linkedin" /></a>
-<a href="https://github.com/dawsdo"><img src="https://img.shields.io/badge/GitHub-415A77?style=flat-square&logo=github&logoColor=F4F1DE" alt="github" /></a>
+<a href="https://www.linkedin.com/in/dsdo/"><img src="https://img.shields.io/badge/LinkedIn-415A77?style=flat-square&logo=linkedin&logoColor=F4F1DE" alt="linkedin" /></a>
 <a href="https://dawsdo-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-415A77?style=flat-square&logo=vercel&logoColor=F4F1DE" alt="portfolio" /></a>
 
 <br>
