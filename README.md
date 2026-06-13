@@ -38,60 +38,29 @@ What I care about: code that works under pressure, decisions I can explain, and 
 
 ```yaml
 learning:
-  - "Real-time CV pipelines and WebSocket backpressure"
-  - "Production-grade frontend systems (Next.js, Vite, Framer Motion)"
-  - "ML deployment patterns on constrained hardware"
+  - "Real-time inference pipelines and WebSocket systems"
+  - "ML deployment on constrained hardware"
 
 building:
   - "Collision CV Web — real-time YOLO detection over web"
   - "Personal portfolio — honest engineering case studies"
 
 exploring:
-  - "Design systems and visual product engineering"
   - "Computer vision for safety and perception"
-
-open_to:
-  - "Research opportunities and internships (SWE, ML, full-stack)"
-  - "Conversations about ML systems and product engineering"
+  - "Design systems and visual product engineering"
 ```
 
 <br>
 
 ## Tech
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java&theme=dark" alt="languages" />
-
-<sub>Python · TypeScript · JavaScript · Java</sub>
-
-<br><br>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="frontend" />
-
-<sub>React · Next.js · Vite · Tailwind · HTML · CSS</sub>
-
-<br><br>
-
-**Backend & ML**
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,pytorch,opencv&theme=dark" alt="backend and ml" />
-
-<sub>Flask · Node.js · PyTorch · OpenCV</sub>
-
-<br><br>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,vercel&theme=dark" alt="tools" />
-
-<sub>Git · GitHub · VS Code · PowerShell · Vercel</sub>
-
-</div>
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · Java · C++ · Go · SQL |
+| **Frontend** | React · Next.js · Vite · Tailwind · Framer Motion |
+| **Backend** | Flask · Node.js · Prisma · PostgreSQL · AWS |
+| **ML / CV** | PyTorch · YOLOv8 · OpenCV · NumPy · Pandas |
+| **Tools** | Git · GitHub Actions · Docker · Vercel · VS Code |
 
 <br>
 
@@ -121,16 +90,6 @@ A full-stack web application that runs YOLOv8 object detection on uploaded image
 - Shared `BoundingBoxLayer` component — single source of truth for box rendering across image, video, and live modes
 
 </details>
-
-<br>
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawsdo&layout=compact&hide_border=true&bg_color=0D1117&title_color=F4F1DE&text_color=cbd5e1&langs_count=8" alt="top languages" />
-
-</div>
 
 <br>
 
