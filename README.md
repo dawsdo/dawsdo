@@ -54,13 +54,15 @@ exploring:
 
 ## Tech
 
-| | |
-|---|---|
-| **Languages** | Python · TypeScript · Java · C++ · Go · SQL |
-| **Frontend** | React · Next.js · Vite · Tailwind · Framer Motion |
-| **Backend** | Flask · Node.js · Prisma · PostgreSQL · AWS |
-| **ML / CV** | PyTorch · YOLOv8 · OpenCV · NumPy · Pandas |
-| **Tools** | Git · GitHub Actions · Docker · Vercel · VS Code |
+**Languages** &nbsp; <img src="https://img.shields.io/badge/Python-415A77?logo=python&logoColor=F4F1DE&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-415A77?logo=typescript&logoColor=F4F1DE&style=flat" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-415A77?logo=openjdk&logoColor=F4F1DE&style=flat" alt="Java" /> <img src="https://img.shields.io/badge/C++-415A77?logo=cplusplus&logoColor=F4F1DE&style=flat" alt="C++" /> <img src="https://img.shields.io/badge/Go-415A77?logo=go&logoColor=F4F1DE&style=flat" alt="Go" /> <img src="https://img.shields.io/badge/SQL-415A77?logo=mysql&logoColor=F4F1DE&style=flat" alt="SQL" />
+
+**Frontend** &nbsp; <img src="https://img.shields.io/badge/React-415A77?logo=react&logoColor=F4F1DE&style=flat" alt="React" /> <img src="https://img.shields.io/badge/Next.js-415A77?logo=nextdotjs&logoColor=F4F1DE&style=flat" alt="Next.js" /> <img src="https://img.shields.io/badge/Vite-415A77?logo=vite&logoColor=F4F1DE&style=flat" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind-415A77?logo=tailwindcss&logoColor=F4F1DE&style=flat" alt="Tailwind" /> <img src="https://img.shields.io/badge/Framer_Motion-415A77?logo=framer&logoColor=F4F1DE&style=flat" alt="Framer Motion" />
+
+**Backend** &nbsp; <img src="https://img.shields.io/badge/Flask-415A77?logo=flask&logoColor=F4F1DE&style=flat" alt="Flask" /> <img src="https://img.shields.io/badge/Node.js-415A77?logo=nodedotjs&logoColor=F4F1DE&style=flat" alt="Node.js" /> <img src="https://img.shields.io/badge/Prisma-415A77?logo=prisma&logoColor=F4F1DE&style=flat" alt="Prisma" /> <img src="https://img.shields.io/badge/PostgreSQL-415A77?logo=postgresql&logoColor=F4F1DE&style=flat" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS-415A77?logo=amazonwebservices&logoColor=F4F1DE&style=flat" alt="AWS" />
+
+**ML / CV** &nbsp; <img src="https://img.shields.io/badge/PyTorch-415A77?logo=pytorch&logoColor=F4F1DE&style=flat" alt="PyTorch" /> <img src="https://img.shields.io/badge/YOLOv8-415A77?logo=yolo&logoColor=F4F1DE&style=flat" alt="YOLOv8" /> <img src="https://img.shields.io/badge/OpenCV-415A77?logo=opencv&logoColor=F4F1DE&style=flat" alt="OpenCV" /> <img src="https://img.shields.io/badge/scikit--learn-415A77?logo=scikitlearn&logoColor=F4F1DE&style=flat" alt="scikit-learn" /> <img src="https://img.shields.io/badge/XGBoost-415A77?logo=python&logoColor=F4F1DE&style=flat" alt="XGBoost" /> <img src="https://img.shields.io/badge/RAPIDS-415A77?logo=nvidia&logoColor=F4F1DE&style=flat" alt="RAPIDS" /> <img src="https://img.shields.io/badge/CUDA-415A77?logo=nvidia&logoColor=F4F1DE&style=flat" alt="CUDA" /> <img src="https://img.shields.io/badge/NumPy-415A77?logo=numpy&logoColor=F4F1DE&style=flat" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-415A77?logo=pandas&logoColor=F4F1DE&style=flat" alt="Pandas" />
+
+**Tools** &nbsp; <img src="https://img.shields.io/badge/Git-415A77?logo=git&logoColor=F4F1DE&style=flat" alt="Git" /> <img src="https://img.shields.io/badge/GitHub_Actions-415A77?logo=githubactions&logoColor=F4F1DE&style=flat" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Docker-415A77?logo=docker&logoColor=F4F1DE&style=flat" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-415A77?logo=vercel&logoColor=F4F1DE&style=flat" alt="Vercel" /> <img src="https://img.shields.io/badge/VS_Code-415A77?logo=visualstudiocode&logoColor=F4F1DE&style=flat" alt="VS Code" />
 
 <br>
 
